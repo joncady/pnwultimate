@@ -12,23 +12,23 @@ self.__precacheManifest = [
     "url": "/waultimate/static/js/runtime~main.b8f135f7.js"
   },
   {
-    "revision": "dd26dcd8117e0a8a2f52",
-    "url": "/waultimate/static/js/main.dd26dcd8.chunk.js"
+    "revision": "a65d60a2af10aef00129",
+    "url": "/waultimate/static/js/main.a65d60a2.chunk.js"
   },
   {
-    "revision": "0e42033b7fa623fedfc7",
-    "url": "/waultimate/static/js/1.0e42033b.chunk.js"
+    "revision": "586e6d83763f2406d2a7",
+    "url": "/waultimate/static/js/1.586e6d83.chunk.js"
   },
   {
-    "revision": "dd26dcd8117e0a8a2f52",
-    "url": "/waultimate/static/css/main.ddd90b45.chunk.css"
+    "revision": "a65d60a2af10aef00129",
+    "url": "/waultimate/static/css/main.936e49fc.chunk.css"
   },
   {
-    "revision": "0e42033b7fa623fedfc7",
-    "url": "/waultimate/static/css/1.049d718b.chunk.css"
+    "revision": "586e6d83763f2406d2a7",
+    "url": "/waultimate/static/css/1.44aafa82.chunk.css"
   },
   {
-    "revision": "e779cdfe810ecbeb38647b7a1f1c6253",
+    "revision": "97523ddb507dd49be1192e06e4b2954f",
     "url": "/waultimate/index.html"
   }
 ];
