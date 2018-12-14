@@ -4,20 +4,24 @@ self.__precacheManifest = [
     "url": "/waultimate/static/media/picture2.478a6099.jpg"
   },
   {
-    "revision": "fcaabe7a0f66a4a1d832",
-    "url": "/waultimate/static/css/main.48a3c9e6.chunk.css"
+    "revision": "866ac70352a24946bb14",
+    "url": "/waultimate/static/css/main.24ecc0a1.chunk.css"
   },
   {
     "revision": "0bd6ef452763c3a6fddc36a385122296",
     "url": "/waultimate/static/media/avatar.0bd6ef45.jpg"
   },
   {
-    "revision": "c0f93d72bee9d232b292",
-    "url": "/waultimate/static/js/1.c0f93d72.chunk.js"
+    "revision": "da1acdc8943ac55f645c",
+    "url": "/waultimate/static/js/1.da1acdc8.chunk.js"
   },
   {
     "revision": "b8f135f7224f1c62879a",
     "url": "/waultimate/static/js/runtime~main.b8f135f7.js"
+  },
+  {
+    "revision": "bd885ceee5e95489ddb55ae2ec3605cc",
+    "url": "/waultimate/static/media/WASmashWhite.bd885cee.png"
   },
   {
     "revision": "a21bcc9f0469f70ab052a585f01c2c90",
@@ -28,8 +32,8 @@ self.__precacheManifest = [
     "url": "/waultimate/static/media/picture1.8f403c28.jpg"
   },
   {
-    "revision": "fcaabe7a0f66a4a1d832",
-    "url": "/waultimate/static/js/main.fcaabe7a.chunk.js"
+    "revision": "866ac70352a24946bb14",
+    "url": "/waultimate/static/js/main.866ac703.chunk.js"
   },
   {
     "revision": "ea1c364106475ad60d96e147d7962713",
@@ -52,11 +56,11 @@ self.__precacheManifest = [
     "url": "/waultimate/static/media/picture7.89c4baa3.jpg"
   },
   {
-    "revision": "c0f93d72bee9d232b292",
-    "url": "/waultimate/static/css/1.8b698ee0.chunk.css"
+    "revision": "da1acdc8943ac55f645c",
+    "url": "/waultimate/static/css/1.a4d3d7da.chunk.css"
   },
   {
-    "revision": "b1107f6fd81015145b412a6414072577",
+    "revision": "34039de2c70373c838633ad833531885",
     "url": "/waultimate/index.html"
   }
 ];
