@@ -12,23 +12,23 @@ self.__precacheManifest = [
     "url": "/waultimate/static/js/runtime~main.b8f135f7.js"
   },
   {
-    "revision": "a65d60a2af10aef00129",
-    "url": "/waultimate/static/js/main.a65d60a2.chunk.js"
+    "revision": "bbd6172991356866b6ff",
+    "url": "/waultimate/static/js/main.bbd61729.chunk.js"
   },
   {
     "revision": "586e6d83763f2406d2a7",
     "url": "/waultimate/static/js/1.586e6d83.chunk.js"
   },
   {
-    "revision": "a65d60a2af10aef00129",
-    "url": "/waultimate/static/css/main.936e49fc.chunk.css"
+    "revision": "bbd6172991356866b6ff",
+    "url": "/waultimate/static/css/main.8070b6bb.chunk.css"
   },
   {
     "revision": "586e6d83763f2406d2a7",
     "url": "/waultimate/static/css/1.44aafa82.chunk.css"
   },
   {
-    "revision": "97523ddb507dd49be1192e06e4b2954f",
+    "revision": "2c1db74f85f2daa844c568bd4b2e76af",
     "url": "/waultimate/index.html"
   }
 ];
