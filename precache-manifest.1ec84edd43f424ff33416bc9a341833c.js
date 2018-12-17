@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/waultimate/static/media/picture1.8f403c28.jpg"
   },
   {
-    "revision": "f8b1c3e305d86201b5cc",
+    "revision": "56c571e99e9a1b88e3a5",
     "url": "/waultimate/static/css/main.f83ad2c1.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/waultimate/static/media/satellitesmash.a21bcc9f.png"
   },
   {
-    "revision": "f8b1c3e305d86201b5cc",
-    "url": "/waultimate/static/js/main.f8b1c3e3.chunk.js"
+    "revision": "56c571e99e9a1b88e3a5",
+    "url": "/waultimate/static/js/main.56c571e9.chunk.js"
   },
   {
     "revision": "478a6099b1251e457b15682f39d7ff8a",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/waultimate/static/css/1.1132a366.chunk.css"
   },
   {
-    "revision": "a7d941a90016b60fa48ec0855d279456",
+    "revision": "27d00d287e8bcdf267a414b0e10eb361",
     "url": "/waultimate/index.html"
   }
 ];

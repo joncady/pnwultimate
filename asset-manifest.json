@@ -1,7 +1,7 @@
 {
   "main.css": "/waultimate/static/css/main.f83ad2c1.chunk.css",
-  "main.js": "/waultimate/static/js/main.f8b1c3e3.chunk.js",
-  "main.js.map": "/waultimate/static/js/main.f8b1c3e3.chunk.js.map",
+  "main.js": "/waultimate/static/js/main.56c571e9.chunk.js",
+  "main.js.map": "/waultimate/static/js/main.56c571e9.chunk.js.map",
   "static/css/1.1132a366.chunk.css": "/waultimate/static/css/1.1132a366.chunk.css",
   "static/js/1.0e87b5d0.chunk.js": "/waultimate/static/js/1.0e87b5d0.chunk.js",
   "static/js/1.0e87b5d0.chunk.js.map": "/waultimate/static/js/1.0e87b5d0.chunk.js.map",
@@ -21,6 +21,6 @@
   "static/css/main.f83ad2c1.chunk.css.map": "/waultimate/static/css/main.f83ad2c1.chunk.css.map",
   "static/css/1.1132a366.chunk.css.map": "/waultimate/static/css/1.1132a366.chunk.css.map",
   "index.html": "/waultimate/index.html",
-  "precache-manifest.2a51fabc5a47637933489b564a4aba96.js": "/waultimate/precache-manifest.2a51fabc5a47637933489b564a4aba96.js",
+  "precache-manifest.1ec84edd43f424ff33416bc9a341833c.js": "/waultimate/precache-manifest.1ec84edd43f424ff33416bc9a341833c.js",
   "service-worker.js": "/waultimate/service-worker.js"
 }
