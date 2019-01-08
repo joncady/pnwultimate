@@ -1,7 +1,7 @@
 {
   "main.css": "/satellitesmash/static/css/main.52dce940.chunk.css",
-  "main.js": "/satellitesmash/static/js/main.fc328a07.chunk.js",
-  "main.js.map": "/satellitesmash/static/js/main.fc328a07.chunk.js.map",
+  "main.js": "/satellitesmash/static/js/main.4df35ac6.chunk.js",
+  "main.js.map": "/satellitesmash/static/js/main.4df35ac6.chunk.js.map",
   "static/css/1.53f0bbf1.chunk.css": "/satellitesmash/static/css/1.53f0bbf1.chunk.css",
   "static/js/1.19e108ef.chunk.js": "/satellitesmash/static/js/1.19e108ef.chunk.js",
   "static/js/1.19e108ef.chunk.js.map": "/satellitesmash/static/js/1.19e108ef.chunk.js.map",
@@ -34,6 +34,6 @@
   "static/css/main.52dce940.chunk.css.map": "/satellitesmash/static/css/main.52dce940.chunk.css.map",
   "static/css/1.53f0bbf1.chunk.css.map": "/satellitesmash/static/css/1.53f0bbf1.chunk.css.map",
   "index.html": "/satellitesmash/index.html",
-  "precache-manifest.0294c51495cec0f5c4259f8f3f0d0337.js": "/satellitesmash/precache-manifest.0294c51495cec0f5c4259f8f3f0d0337.js",
+  "precache-manifest.d0b8c59fb484f006228facd6fcf101cf.js": "/satellitesmash/precache-manifest.d0b8c59fb484f006228facd6fcf101cf.js",
   "service-worker.js": "/satellitesmash/service-worker.js"
 }
