@@ -4,28 +4,28 @@ self.__precacheManifest = [
     "url": "/waultimate/static/media/picture9.1ed68da0.jpg"
   },
   {
-    "revision": "fe160fb965a1f82ee79f",
-    "url": "/waultimate/static/css/main.0119acd7.chunk.css"
+    "revision": "4c52710cabc02ac7b39d",
+    "url": "/waultimate/static/css/main.b68589f2.chunk.css"
   },
   {
-    "revision": "376b607d5e9ae040388955d9bae17e96",
-    "url": "/waultimate/static/media/nwm.376b607d.png"
+    "revision": "26bbc45e240ec1e01d1d7a8876b883f8",
+    "url": "/waultimate/static/media/Integral.26bbc45e.otf"
   },
   {
-    "revision": "bf630cc66e8079b9753e",
-    "url": "/waultimate/static/js/1.bf630cc6.chunk.js"
+    "revision": "227d0531bf76bd196fc9",
+    "url": "/waultimate/static/js/1.227d0531.chunk.js"
   },
   {
     "revision": "b8f135f7224f1c62879a",
     "url": "/waultimate/static/js/runtime~main.b8f135f7.js"
   },
   {
-    "revision": "49655fe471a8a47a191c9cb0a550c6f6",
-    "url": "/waultimate/static/media/WASmash.49655fe4.png"
-  },
-  {
     "revision": "a21bcc9f0469f70ab052a585f01c2c90",
     "url": "/waultimate/static/media/satellitesmash.a21bcc9f.png"
+  },
+  {
+    "revision": "49655fe471a8a47a191c9cb0a550c6f6",
+    "url": "/waultimate/static/media/WASmash.49655fe4.png"
   },
   {
     "revision": "8f403c280a0a011788d4cb75cbc9488a",
@@ -60,8 +60,8 @@ self.__precacheManifest = [
     "url": "/waultimate/static/media/picture8.ea1c3641.jpg"
   },
   {
-    "revision": "fe160fb965a1f82ee79f",
-    "url": "/waultimate/static/js/main.fe160fb9.chunk.js"
+    "revision": "4c52710cabc02ac7b39d",
+    "url": "/waultimate/static/js/main.4c52710c.chunk.js"
   },
   {
     "revision": "478a6099b1251e457b15682f39d7ff8a",
@@ -112,11 +112,15 @@ self.__precacheManifest = [
     "url": "/waultimate/static/media/stars.b94c0cfc.jpg"
   },
   {
-    "revision": "bf630cc66e8079b9753e",
-    "url": "/waultimate/static/css/1.bc2f91da.chunk.css"
+    "revision": "376b607d5e9ae040388955d9bae17e96",
+    "url": "/waultimate/static/media/nwm.376b607d.png"
   },
   {
-    "revision": "002fd8bb4cdb8d17d00ab2164025c0c3",
+    "revision": "227d0531bf76bd196fc9",
+    "url": "/waultimate/static/css/1.d327d042.chunk.css"
+  },
+  {
+    "revision": "4f359dbffa03402474e0fb4db23b66fe",
     "url": "/waultimate/index.html"
   }
 ];
