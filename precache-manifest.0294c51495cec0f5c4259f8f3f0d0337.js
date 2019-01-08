@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/satellitesmash/static/media/picture10.478a6099.jpg"
   },
   {
-    "revision": "b6e71788683fedd7bd8c",
-    "url": "/satellitesmash/static/css/main.3b128c8b.chunk.css"
+    "revision": "fc328a07f3531105e452",
+    "url": "/satellitesmash/static/css/main.52dce940.chunk.css"
   },
   {
     "revision": "26bbc45e240ec1e01d1d7a8876b883f8",
     "url": "/satellitesmash/static/media/Integral.26bbc45e.otf"
   },
   {
-    "revision": "75802f42ddf8c0c009ff",
-    "url": "/satellitesmash/static/js/1.75802f42.chunk.js"
+    "revision": "19e108ef5a5a5ced563f",
+    "url": "/satellitesmash/static/js/1.19e108ef.chunk.js"
   },
   {
     "revision": "6e808fda2626110bd9c1",
@@ -60,8 +60,8 @@ self.__precacheManifest = [
     "url": "/satellitesmash/static/media/picture9.1ed68da0.jpg"
   },
   {
-    "revision": "b6e71788683fedd7bd8c",
-    "url": "/satellitesmash/static/js/main.b6e71788.chunk.js"
+    "revision": "fc328a07f3531105e452",
+    "url": "/satellitesmash/static/js/main.fc328a07.chunk.js"
   },
   {
     "revision": "956f0f2bf26b395a344be2ae8294cf23",
@@ -112,11 +112,11 @@ self.__precacheManifest = [
     "url": "/satellitesmash/static/media/nwm.376b607d.png"
   },
   {
-    "revision": "75802f42ddf8c0c009ff",
+    "revision": "19e108ef5a5a5ced563f",
     "url": "/satellitesmash/static/css/1.53f0bbf1.chunk.css"
   },
   {
-    "revision": "7fefa3a3e7c282ded2beb39710c98d78",
+    "revision": "a022dfc9c46a62d7dae43588d626b98a",
     "url": "/satellitesmash/index.html"
   }
 ];
