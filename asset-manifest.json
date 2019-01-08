@@ -1,7 +1,7 @@
 {
-  "main.css": "/waultimate/static/css/main.b68589f2.chunk.css",
-  "main.js": "/waultimate/static/js/main.4c52710c.chunk.js",
-  "main.js.map": "/waultimate/static/js/main.4c52710c.chunk.js.map",
+  "main.css": "/waultimate/static/css/main.ca66e592.chunk.css",
+  "main.js": "/waultimate/static/js/main.748bc813.chunk.js",
+  "main.js.map": "/waultimate/static/js/main.748bc813.chunk.js.map",
   "static/css/1.d327d042.chunk.css": "/waultimate/static/css/1.d327d042.chunk.css",
   "static/js/1.227d0531.chunk.js": "/waultimate/static/js/1.227d0531.chunk.js",
   "static/js/1.227d0531.chunk.js.map": "/waultimate/static/js/1.227d0531.chunk.js.map",
@@ -32,9 +32,9 @@
   "static/media/stars.jpg": "/waultimate/static/media/stars.b94c0cfc.jpg",
   "static/media/nwm.png": "/waultimate/static/media/nwm.376b607d.png",
   "static/media/index.css": "/waultimate/static/media/Integral.26bbc45e.otf",
-  "static/css/main.b68589f2.chunk.css.map": "/waultimate/static/css/main.b68589f2.chunk.css.map",
+  "static/css/main.ca66e592.chunk.css.map": "/waultimate/static/css/main.ca66e592.chunk.css.map",
   "static/css/1.d327d042.chunk.css.map": "/waultimate/static/css/1.d327d042.chunk.css.map",
   "index.html": "/waultimate/index.html",
-  "precache-manifest.90d5f3dccb09450845e1c2cf7935927a.js": "/waultimate/precache-manifest.90d5f3dccb09450845e1c2cf7935927a.js",
+  "precache-manifest.6da69b059e222de7a8832c6b092a42c1.js": "/waultimate/precache-manifest.6da69b059e222de7a8832c6b092a42c1.js",
   "service-worker.js": "/waultimate/service-worker.js"
 }
